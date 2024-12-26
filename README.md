@@ -1,6 +1,6 @@
 # Udemig-Education-Website
 
-# Kullanıcı deneyimini ön planda tutarak, modern ve etkileyici bir Udemig Education web sitesi tasarladım.
+ Kullanıcı deneyimini ön planda tutarak, modern ve etkileyici bir Udemig Education web sitesi tasarladım.
 
 # Kullanılan Teknolojiler
 - Html
